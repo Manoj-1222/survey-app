@@ -1,0 +1,54 @@
+body{
+    background: radial-gradient(pink,lavender);
+}
+form{
+    border:10px double grey;
+    width:1200px;
+    padding:20px;
+    margin-top: 0px;
+    margin-left: 125px;;
+}
+p{
+    font-size: x-large;
+    color:purple;
+}
+label{
+    color:solid black;
+    font-size: 20px;
+    margin:5%
+}
+.textarea{
+    position:relative;
+    right:3%;
+}
+.bugs{
+    margin-left:2%;
+}
+.head{
+    color:maroon;
+    font-weight: 800%;
+
+}
+.text-area{
+    position:relative;
+    left:1%;
+    
+}
+#comments{
+    text-align: center;
+}
+#submit{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-family: monospace;
+    font-size: 21px;
+    display: block;
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left:5%;
+}
+h2{
+    text-align: center;
+}
